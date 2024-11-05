@@ -1,5 +1,6 @@
 {
 	"author": {"name":"Daniel"} ,"fcc-learn-npm-package-json"
+	"description": "Every living creature dies alone",
 	"dependencies":{"express": "^4.14.0"},
 	"main": "server.js",
 	"scripts": {
